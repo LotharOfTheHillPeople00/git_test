@@ -1,2 +1,7 @@
 This is just a test.
 Blah blah blah.
+This is a new test.
+Going to try to commit to Git without the -m message flag.
+I'll just use git add, then git commit.
+Hopefully that will add a window here in VSCode that I will
+be able to use to add a message of what I have changed.
